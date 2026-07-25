@@ -1,8 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-  <img alt="Nikhil Rathore — Full Stack Developer" src="light.svg" width="100%">
-</picture>
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=false&width=600&lines=Full+Stack+Developer;Frontend+%26+Backend+Engineer;Open+Source+Contributor;AI+Enthusiast;React+Native+Developer)](https://git.io/typing-svg)
@@ -11,7 +6,7 @@
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=nikhilrathore1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=22D3EE&text_color=94A3B8&ring_color=7C3AED" />
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=nikhilrathore1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=22D3EE&text_color=94A3B8&ring_color=7C3AED&cache_seconds=86400" />
 
 ### 👋 About Me
 
@@ -76,12 +71,12 @@ const nikhil = {
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nikhilrathore1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=22D3EE&text_color=94A3B8" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilrathore1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=94A3B8" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nikhilrathore1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=22D3EE&text_color=94A3B8&cache_seconds=86400" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilrathore1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=94A3B8&cache_seconds=86400" />
 </div>
 
 <div align="center">
-  <img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=nikhilrathore1&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=22D3EE&currStreakLabel=94A3B8" />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=nikhilrathore1&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=22D3EE&currStreakLabel=94A3B8" />
 </div>
 
 ---
@@ -110,33 +105,12 @@ const nikhil = {
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/nikhilrathore1/nikhilrathore1/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhilrathore1/nikhilrathore1/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/nikhilrathore1/nikhilrathore1/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
-
-> **Note:** To enable the snake animation, add this GitHub Action to your repo at `.github/workflows/snake.yml`:
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule: [{cron: "0 0 * * *"}]
->   workflow_dispatch:
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_token: ${{ secrets.GITHUB_TOKEN }}
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
 
 ---
 
@@ -167,7 +141,7 @@ const nikhil = {
 
 <div align="center">
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=nikhilrathore1&icon=6&color=7)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=nikhilrathore1&color=7C3AED&style=for-the-badge&label=Profile+Views)
 
 *"Building one commit at a time."*
 
