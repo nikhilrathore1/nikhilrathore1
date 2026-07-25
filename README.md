@@ -6,7 +6,12 @@
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=nikhilrathore1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=22D3EE&text_color=94A3B8&ring_color=7C3AED&cache_seconds=86400" />
+<div align="right">
+
+![Followers](https://img.shields.io/github/followers/nikhilrathore1?style=for-the-badge&color=7C3AED&labelColor=0D1117&logo=github)
+![Stars](https://img.shields.io/github/stars/nikhilrathore1?style=for-the-badge&color=22D3EE&labelColor=0D1117&logo=github)
+
+</div>
 
 ### 👋 About Me
 
