@@ -81,16 +81,6 @@ const nikhil = {
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=nikhilrathore1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
-
-</div>
-
----
-
 ### 📈 Contribution Activity
 
 <div align="center">
